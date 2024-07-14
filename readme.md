@@ -12,4 +12,4 @@ npm i
 
 Run the Code using following command for both backend and frontend by splitting the terminal:- 
 
-npm run dev
+npm run dev, also have given access to the Database via.env file.
