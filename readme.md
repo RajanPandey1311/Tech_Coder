@@ -1,6 +1,6 @@
 Clone the Repository in respective system:-
 
-git clone https://github.com/RajanPandey1311/technical_first.git
+git clone https://github.com/RajanPandey1311/Technical_Assignment_1.git
 
 Install backend and frontend dependencies:- 
 
